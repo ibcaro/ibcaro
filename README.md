@@ -1,4 +1,4 @@
-# 💫 About Me:
+# HELLO WORLD :)
 Computer Science student passionate about turning data and complex concepts into functional, high-performance, and user-centered solutions. Currently seeking a Software Engineering / Data / Security Internship to apply my skills in real-world environments and contribute to impactful projects.<br><br> • Focus Areas: Data Science, Cybersecurity, and Mobile App Development.<br><br><br> • UI/UX & Engineering: Bridging the gap between clean code and intuitive interface design to deliver seamless user experiences.<br><br><br> • Current Goals: Building and documenting practical, end-to-end projects to demonstrate technical growth and problem-solving capabilities.
 
 
